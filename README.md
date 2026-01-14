@@ -1,29 +1,51 @@
-C / C++ Problem Solving Programs
-This repository contains a collection of C and C++ programs focused on Data Structures, Algorithms, and problem-solving practice. The programs are mainly based on competitive programming and interview-style questions.
+# DSA-Solutions
+DSA Hackerrank Solutions
 
-📌 About the Repository
-Written in C and C++
-Covers arrays, stacks, queues, linked lists, trees, and algorithms
-Useful for:
-College practicals
-DSA practice
-Interview preparation
-Competitive programming
-Each file represents a standalone solution to a specific problem.
+# C / C++ Problem Solving Programs
 
-🛠️ Languages Used
-C
-C++
-📂 Topics Covered
-Arrays & Strings
-Linked Lists
-Stacks & Queues
-Trees & Binary Search Trees
-Recursion
-Searching & Sorting
-Greedy Algorithms
-Problem-solving logic
-📁 Repository Structure
+This repository contains a collection of **C and C++ programs** focused on
+**Data Structures, Algorithms, and problem-solving practice**.
+The programs are mainly based on competitive programming and interview-style questions.
+
+---
+
+## 📌 About the Repository
+
+- Written in **C and C++**
+- Covers **arrays, stacks, queues, linked lists, trees, and algorithms**
+- Useful for:
+  - College practicals
+  - DSA practice
+  - Interview preparation
+  - Competitive programming
+
+Each file represents a **standalone solution** to a specific problem.
+
+---
+
+## 🛠️ Languages Used
+
+- **C**
+- **C++**
+
+---
+
+## 📂 Topics Covered
+
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Binary Search Trees
+- Recursion
+- Searching & Sorting
+- Greedy Algorithms
+- Problem-solving logic
+
+---
+
+## 📁 Repository Structure
+
+```
 ├── And Or Xor.c
 ├── Array Manipulation.c
 ├── Array and Simple Queries.c
@@ -64,10 +86,17 @@ Problem-solving logic
 ├── swapNodes.cpp
 ├── treeHuffmanDecoding.cpp
 └── README.md
+```
 🎯 Purpose
 
-This repository is maintained for: Learning and practicing DSA concepts Improving problem-solving skills Maintaining a personal reference of solved problems
+This repository is maintained for:
+Learning and practicing DSA concepts
+Improving problem-solving skills
+Maintaining a personal reference of solved problems
 
 🚀 Future Improvements
 
-Organize files into folders by topic Add problem statements as comments Add time & space complexity Add sample input/output
+Organize files into folders by topic
+Add problem statements as comments
+Add time & space complexity
+Add sample input/output
